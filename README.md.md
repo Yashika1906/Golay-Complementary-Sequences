@@ -95,8 +95,8 @@ The flat combined spectrum `|A(f)|² + |B(f)|² = 2N` ensures uniform estimation
 
 
 # Clone the repo
-git clone https://github.com/Yashika1906/golay-dsp.git
-cd golay-dsp
+git clone https://github.com/Yashika1906/Golay-Complementary-Sequences
+cd Golay-Complementary-Sequences
 
 # Install dependencies
 pip install -r requirements.txt

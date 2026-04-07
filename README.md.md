@@ -212,8 +212,3 @@ pip install -r requirements.txt
 3. Tarokh, V., & Jafarkhani, H. (2000). On the computation and reduction of the peak-to-average power ratio in multicarrier communications. *IEEE Transactions on Communications*, 48(1), 37–44.
 4. Proakis, J. G., & Manolakis, D. G. (2007). *Digital Signal Processing* (4th ed.). Prentice Hall.
 
----
-
-<p align="center">
-  Made as a DSP course project &nbsp;|&nbsp; Python · NumPy · Matplotlib
-</p>
